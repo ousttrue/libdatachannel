@@ -13,3 +13,10 @@ compile_commands.json
 .DS_Store
 .idea
 
+/subprojects/*
+!/subprojects/packagefiles
+!/subprojects/openssl.wrap
+!/subprojects/libsrtp2.wrap
+!/subprojects/sergiusthebest-plog.wrap
+!/subprojects/usrsctp.wrap
+/prefix/
