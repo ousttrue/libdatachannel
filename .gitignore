@@ -19,4 +19,7 @@ compile_commands.json
 !/subprojects/libsrtp2.wrap
 !/subprojects/sergiusthebest-plog.wrap
 !/subprojects/usrsctp.wrap
+!/subprojects/json.wrap
+!/subprojects/plog.wrap
+!/subprojects/libjuice.wrap
 /prefix/

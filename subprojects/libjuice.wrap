@@ -1,0 +1,9 @@
+[wrap-git]
+url = https://github.com/paullouisageneau/libjuice.git
+revision = v1.3.1
+depth = 1
+patch_directory = juice
+
+[provide]
+juice = juice_dep
+
