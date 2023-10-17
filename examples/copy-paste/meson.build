@@ -1,12 +1,12 @@
 executable(
     'offerer',
     'offerer.cpp',
-    dependencies: [rtc_dep],
+    dependencies: [datachannel_dep],
 )
 
 executable(
     'answerer',
     'answerer.cpp',
-    dependencies: [rtc_dep],
+    dependencies: [datachannel_dep],
 )
 
